@@ -5,8 +5,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import sqlite3
 
 # Настройки
-BOT_TOKEN = "8245945626:AAFoGNoWP-JZTRUt9AdoYF9T891GCDXOGlo"
-DEAN_USER_ID = 6224232118  # ID проректора в Telegram
+BOT_TOKEN = "7482941211:AAHFdieVCnuCdZaLH_C6XQbA0hBeZHFtyrU"
+DEAN_USER_ID = 5745178989  # ID проректора в Telegram
 
 # Состояния диалога
 CATEGORY, NAME, FACULTY, CONTACT, TEACHER_SUBJECT, PARENT_STUDENT_NAME, CONTENT, DEAN_RESPONSE = range(8)
