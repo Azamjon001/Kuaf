@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import sqlite3
 
 # Настройки
-BOT_TOKEN = "8245945626:AAFoGNoWP-JZTRUt9AdoYF9T891GCDXOGlo"
+BOT_TOKEN = "8271742472:AAFG8RJeZGbiEZRvT6xfVzBxS-JinzIEYLQ"
 DEAN_USER_ID = 6224232118  # ID проректора в Telegram
 
 # Состояния диалога
